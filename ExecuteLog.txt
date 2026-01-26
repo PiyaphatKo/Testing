@@ -1,0 +1,18 @@
+Tester Name : ญำำ
+DateTime Generate : 2026-01-26 22:23:58.208751
+Loop :
+1, W=14, H=25, Area=ERROR
+2, W=15, H=25, Area=187.5
+3, W=16, H=25, Area=200.0
+4, W=25, H=9, Area=ERROR
+5, W=25, H=10, Area=125.0
+6, W=25, H=11, Area=137.5
+7, W=25, H=25, Area=312.5
+8, W=25, H=39, Area=487.5
+9, W=25, H=40, Area=500.0
+10, W=25, H=41, Area=ERROR
+11, W=34, H=25, Area=425.0
+12, W=35, H=25, Area=437.5
+13, W=36, H=25, Area=ERROR
+DateTime finish : 2026-01-26 22:23:58.209711
+Total number of test case : 13
