@@ -1,4 +1,3 @@
-#นายปิยภัทร คงเจริญวุฒิ 6630202503 S19
 from datetime import datetime
 import itertools
 
