@@ -1,30 +1,19 @@
 Tester Name : Piyaphat Kongcharoenvoot
-DateTime Generate : 2026-01-28 19:25:10.867789
+Test Design Technique : Robustness Testing
+DateTime Generate : 2026-01-30 16:57:15.067292
 Loop :
-1, W = 15, H = 35, Area = 262.5
-2, W = 15, H = 36, Area = 270.0
-3, W = 15, H = 70, Area = 525.0
-4, W = 15, H = 104, Area = 780.0
-5, W = 15, H = 105, Area = 787.5
-6, W = 16, H = 35, Area = 280.0
-7, W = 16, H = 36, Area = 288.0
-8, W = 16, H = 70, Area = 560.0
-9, W = 16, H = 104, Area = 832.0
-10, W = 16, H = 105, Area = 840.0
-11, W = 45, H = 35, Area = 787.5
-12, W = 45, H = 36, Area = 810.0
-13, W = 45, H = 70, Area = 1575.0
-14, W = 45, H = 104, Area = 2340.0
-15, W = 45, H = 105, Area = 2362.5
-16, W = 74, H = 35, Area = 1295.0
-17, W = 74, H = 36, Area = 1332.0
-18, W = 74, H = 70, Area = 2590.0
-19, W = 74, H = 104, Area = 3848.0
-20, W = 74, H = 105, Area = 3885.0
-21, W = 75, H = 35, Area = 1312.5
-22, W = 75, H = 36, Area = 1350.0
-23, W = 75, H = 70, Area = 2625.0
-24, W = 75, H = 104, Area = 3900.0
-25, W = 75, H = 105, Area = 3937.5
-DateTime finish : 2026-01-28 19:25:10.867789
-Total number of test case : 25
+ROB-01, W = 49, H = 55, Area = ERROR
+ROB-02, W = 50, H = 55, Area = 1375.0
+ROB-03, W = 51, H = 55, Area = 1402.5
+ROB-04, W = 60, H = 19, Area = ERROR
+ROB-05, W = 60, H = 20, Area = 600.0
+ROB-06, W = 60, H = 21, Area = 630.0
+ROB-07, W = 60, H = 55, Area = 1650.0
+ROB-08, W = 60, H = 89, Area = 2670.0
+ROB-09, W = 60, H = 90, Area = 2700.0
+ROB-10, W = 60, H = 91, Area = ERROR
+ROB-11, W = 69, H = 55, Area = 1897.5
+ROB-12, W = 70, H = 55, Area = 1925.0
+ROB-13, W = 71, H = 55, Area = ERROR
+DateTime finish : 2026-01-30 16:57:15.067292
+Total number of test case : 13
